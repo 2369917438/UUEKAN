@@ -79,8 +79,8 @@ bash train_val.sh
 ```
 
 This script will:
-1.  Train the `UUEKAN` model on the `heus` dataset.
-2.  Save the best model and logs to the `outputs/UUEKAN/heus/` directory.
+1.  Train the `UUEKAN` model on the `HEUS` `BUSI` `CVC`dataset.
+2.  Save the best model and logs to the `outputs/UUEKAN/Datasetname/` directory.
 3.  Run validation on the test set using the saved model.
 
 You can customize the `train_val.sh` script to change parameters like the dataset name, input size, number of epochs, etc.
