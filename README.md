@@ -6,19 +6,19 @@ Accurate segmentation of medical images, particularly ultrasound, is challenged 
 
 
 
-![image](.\Figure\UUEKAN.svg)
+![image](pubilic\Figure\UUEKAN.svg)
 
 
 
-![image](.\Figure\UMALA.svg)
+![image](pubilic\Figure\UMALA.svg)
 
 
 
-![image](.\Figure\EKAN.svg)
+![image](pubilic\Figure\EKAN.svg)
 
 
 
-![](C:\Users\Administrator\Desktop\UUEKAN\UUEKAN\Figure\comparison_figure.svg)
+![](pubilic\Figure\comparison_figure.svg)
 
 ## Dataset
 
