@@ -27,8 +27,7 @@ Accurate segmentation of medical images, particularly ultrasound, is challenged 
 
 The project expects the datasets to be organized in the following structure:<br>
 Datasets Download：inputs<br>
-通过网盘分享的文件：inputs
-链接: https://pan.baidu.com/s/15yycTpqSW-IoScNOsalkVw?pwd=jtw3 <br>
+https://pan.baidu.com/s/15yycTpqSW-IoScNOsalkVw?pwd=jtw3 <br>
 ```
 <data_directory>/
 └── <dataset_name>/
